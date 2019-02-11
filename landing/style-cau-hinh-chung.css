@@ -1,0 +1,87 @@
+/* bỏ chọn địa chỉ */
+.selectvn{
+display:none;
+}
+/* bỏ chọn ngày sinh */
+#dateoball,#dateob {
+    display: none!important;
+}
+#mobile{
+color:#333!important;
+}
+#chonsp {
+    background: #fff!important;
+}
+.hiddendiv{background: black!important;border: 2px solid green!important;color: #fff!important;margin-top: 20px!important;padding: 10px!important}.faildiv{background: black!important;border: 2px solid red!important;color: #fff!important;margin-top: 20px!important;padding: 10px!important}
+.enter-submit,.vccsm {
+    background: crimson!important;
+    color: #fff!important;
+    padding: 10px 20px!important;
+    font-size: 25px;
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+.form-input.selectvn {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{ text-align:left!important; line-height:40px!important;font-size:15px;}
+.select2-container .select2-selection--single { height: 40px!important;}
+.select2-container--default .select2-selection--single .select2-selection__arrow b{top:70%!important}
+.showdivok {
+  background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999999;
+}
+.div-alert {
+  color: #fff;
+  font-size: 30px;
+  position: relative;
+  text-align: center;
+  line-height:40px;
+  top: 50%;
+  text-transform:uppercase;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #999!important;
+}
+.page-element-type-html {
+    z-index: ;
+}
+.modal {
+    z-index: 999;
+}
+.formnhap {
+    z-index: 9;
+    position: relative;
+}
+.bigpop {
+    z-index: 999999!important;
+}
+.select2-container {
+    z-index: 9999999999;
+}
+input#mobile,input#dateoball,input#dateob{
+	background-color: #fff!important;
+    border: 1px solid #8095a8!important;
+    padding: 9px 10px 10px 10px!important;
+    -moz-border-radius: 3px!important;
+    border-radius: 3px!important;
+    margin: 8px 0 8px 0!important;
+    font-size: 15px!important;
+    line-height: 19px!important;
+    width: 100%!important;
+    height: 43px!important;
+    -moz-box-sizing: border-box!important;
+    box-sizing: border-box!important;
+}
+.offvnx,.offvn{
+display:none!important;
+}
+
